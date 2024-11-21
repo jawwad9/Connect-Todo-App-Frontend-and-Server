@@ -18,8 +18,13 @@ const users = [
 },
 {
     id: 2,
-    title: "anas",
-},]
+    title: "Anas",
+},
+{
+    id: 3,
+    title: "Raza",
+},
+]
 
 
 app.get("/", (req, res) => {
