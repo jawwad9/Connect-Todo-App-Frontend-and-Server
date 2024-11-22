@@ -20,10 +20,6 @@ const users = [
     id: 2,
     title: "Anas",
 },
-{
-    id: 3,
-    title: "Raza",
-},
 ]
 
 
